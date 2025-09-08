@@ -1,4 +1,4 @@
-# AI-Q-Learning-Project
+# AI-Q-Learning-Research-Project
 AI Project - Deep Q Learning algorithm and exe files with documentation
 
 =======================================================
