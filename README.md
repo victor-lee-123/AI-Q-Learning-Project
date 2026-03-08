@@ -1,7 +1,6 @@
 # AI-Q-Learning-Research-Project 🤖
 AI Project - Deep Q Learning algorithm and exe files with documentation
 
-=======================================================
 # ⭐ Introduction 
 Reinforcement learning (RL) has gained significant traction in recent years as a powerful
 framework for decision-making in games and interactive simulations. At the heart of this
