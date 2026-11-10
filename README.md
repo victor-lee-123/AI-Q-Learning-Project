@@ -26,3 +26,7 @@ All required information are under RLWithQ-Learning.pdf
 
 To run exe file to test, go to SourceCode/Build/ChasingArena.exe
 (It will prompt you with warning but just run it)
+
+# ⭐ Architecture Diagram
+
+[![Architecture diagram of victor-lee-123/ai-q-learning-project](https://gitdiagram.com/victor-lee-123/ai-q-learning-project/diagram.png)](https://gitdiagram.com/victor-lee-123/ai-q-learning-project?utm_source=readme&utm_medium=picture)
